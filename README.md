@@ -1,7 +1,7 @@
 # A React Native wrapper for the Socket.io Library
 
-This project was forked from Kirkness' React Native Swift Socket.Io project
-[found here](https://github.com/kirkness/react-native-swift-socketio)
+This project was forked from Gcabtree' React Native Swift Socket.Io project
+[found here](https://github.com/gcrabtree/react-native-socketio)
 
 Note: We are working on the following items:
 * Reviewing Pull requests and seeing if they are pertinent.
@@ -116,7 +116,7 @@ Optional:
 
 - Run in your project:
 ```sh
-$ npm install react-native-socketio
+$ npm install https://github.com/projectn3xt/react-native-socketio
 ```
 
 #### iOS
